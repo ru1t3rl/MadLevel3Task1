@@ -5,4 +5,15 @@
     <string name="welcome">Welcome to the Games Rating app!</string>
     <string name="info">Click START to start rating :)</string>
     <string name="btn_start">START</string>
+    <string name="rate_info">Rate the following game from 1 to 5 stars!</string>
+    <string name="btn_to_summary">To Summary</string>
+    <string-array name="game_titles">
+        <item>Red Dead Redemption 2</item>
+        <item>Rocket League</item>
+        <item>Shadow of the Tombraider</item>
+        <item>Grand Theft Auto V</item>
+        <item>Minecraft</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
